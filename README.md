@@ -13,6 +13,8 @@ AtilQ Hotels, facing financial challenges, needed a comprehensive analysis of th
 - **Booking Patterns:** Insights into booking sources, times, and patterns that drive revenue.
 - **Top Performers:** Identification of the highest-performing hotels, locations, or customer segments.
 - **Key Performance Indicators (KPIs):** Metrics such as occupancy rate, average booking value, and customer retention rates.
+## Data Model
+<img src="https://github.com/sujitmahapatra/Hospitality-Revenue-Analysis/blob/0179c3af008fee37781fc5ffe908da6b35e219ad/Data%20Modeling.png" alt="Data Model Preview" width="500"/>
 
 ## Dataset
 The dataset used in this project includes fields such as:
